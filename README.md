@@ -80,14 +80,15 @@
 
 ---
 
-##  執行環境
+## 環境與套件版本（Environment & Dependencies）
+
+本專案之模型訓練與推論環境如下：
 
 - **作業系統**：Windows 10 (64-bit)
 - **Python**：3.12.12
-- **主要套件**：
-  - PyTorch
-  - Ultralytics
-  - os / random / shutil
+- **CUDA**：12.1
+- **PyTorch**：2.2.2+cu121
+- **Ultralytics**：8.1.34
 
 ---
 
