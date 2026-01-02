@@ -1,10 +1,5 @@
 # NKUST Neural Network Final Project – YOLOv8 Object Detection
 
-**Course**：類神經網路  
-**Team**：TEAM_8940  
-**Member**：郭品熠  
-**Private Leaderboard Score**：0.9160  
-
 本專案為國立高雄科技大學（NKUST）類神經網路課程期末專題，採用 Ultralytics YOLOv8 目標偵測模型，針對特定影像資料集進行資料前處理、模型訓練與推論實驗。研究重點在於資料品質控管、負樣本比例平衡，以及多階段訓練策略對模型效能之影響。
 
 ---
